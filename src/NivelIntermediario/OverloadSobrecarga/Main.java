@@ -23,6 +23,10 @@ public class Main {
         madara.habilidadeEspecial();
         madara.estrategiaDeBatalhaNinja();
         madara.ativarSharigan();
-        madara.inteligenciaDeCombate(150);
+        //Metodo comum
+        madara.inteligenciaDeCombate();
+        //Metoddo sobrecarregado
+        madara.inteligenciaDeCombate(180);
+
     }
 }

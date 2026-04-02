@@ -40,13 +40,12 @@ public abstract class Ninja  implements EstrategiaDeBatalha {
         System.out.println( "Meu nome é: " + nome +" essa é minha estrategia de combate");
     }
 
-
     //Inteligencia dde combate - Metodo paddrao
     public void inteligenciaDeCombate() {
         System.out.println( "Meu nome é: " + nome +"Inteligencia de combate");
     }
 
-    // INTELIGENCIA E COMBATE
+    // INTELIGENCIA DE COMBATE
     public void inteligenciaDeCombate(int qi) {
         if (qi > 150){
             System.out.println("Seu QI é " + qi + " e você é um genio");
