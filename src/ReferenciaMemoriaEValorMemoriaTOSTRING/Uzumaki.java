@@ -16,6 +16,7 @@ public class Uzumaki extends Ninja {
         super(nome, aldeia, idade, rank);
     }
 
+
     @Override
     public String toString() {
         return "Meu nome é:" + nome +
