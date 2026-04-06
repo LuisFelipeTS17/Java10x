@@ -21,7 +21,7 @@ public class Main {
 
         /**
          * TODO:Listas
-         * TODO:Objetivo: Listas Não sao estaticas, elas podem começar zeradas, sao mais felxiveis, sao um arrays com super poderes
+         * TODO:Objetivo: Listas Não sao estaticas, elas podem começar zeradas, sao mais felxiveis, sao um arrays com super poderes.
          */
 
         List<String> ninjasList = new ArrayList<>();
@@ -43,5 +43,7 @@ public class Main {
 
         //TODO: Ver TAMANHO DA LISTA
         System.out.println("Tamanho da lista" + ninjasList.size() + "elementos" );
+
+
     }
 }
