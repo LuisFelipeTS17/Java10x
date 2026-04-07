@@ -31,6 +31,7 @@ public class Main {
         ninjasList.add("Kakashi Hatake"); // 3 index
 
         //TODO: ADICIONAR NA LISTA
+        ninjasList.add("Tobirama");
         System.out.println("ninjasList = " + ninjasList);
 
         //TODO: REMOVER DA LISTA
@@ -42,6 +43,7 @@ public class Main {
         System.out.println("Troca = " + ninjasList);
 
         //TODO: Ver TAMANHO DA LISTA
+        ninjasList.size();
         System.out.println("Tamanho da lista" + ninjasList.size() + "elementos" );
 
 
