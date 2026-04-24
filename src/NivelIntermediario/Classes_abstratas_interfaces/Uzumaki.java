@@ -9,7 +9,7 @@ public class Uzumaki extends Ninja {
 
     @Override
     public void tacarKunai() {
-
+        System.out.println("EU ESTOU JOGANDO UMA KUNAI EXPLOSIVA");
     }
 
 }

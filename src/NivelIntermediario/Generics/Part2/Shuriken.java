@@ -19,4 +19,6 @@ public class Shuriken {
     public String toString() {
         return "Shuriken de tamanho: " + tamanho;
     }
+
+
 }

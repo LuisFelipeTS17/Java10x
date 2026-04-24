@@ -1,9 +1,9 @@
 package NivelIntermediario.Generics.Part2;
 
-public class Kunai {
+public class Pergaminho {
     private String conteudo;
 
-    public Kunai(String conteudo) {
+    public Pergaminho(String conteudo) {
         this.conteudo = conteudo;
     }
 
@@ -13,5 +13,10 @@ public class Kunai {
 
     public void setConteudo(String conteudo) {
         this.conteudo = conteudo;
+    }
+
+    @Override
+    public String toString() {
+        return conteudo;
     }
 }

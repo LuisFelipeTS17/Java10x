@@ -15,9 +15,7 @@ public class Main {
             System.out.println("ninjasArray[I] = " + ninjasArray[i]);
 
         }
-
         System.out.println(ninjasArray[0]);
-
 
         /**
          * TODO:Listas
